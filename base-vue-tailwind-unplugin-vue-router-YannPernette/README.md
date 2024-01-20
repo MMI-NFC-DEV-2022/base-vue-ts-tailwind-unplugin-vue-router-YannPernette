@@ -1,6 +1,18 @@
 # base-vue-tailwind-unplugin-vue-router-YannPernette
 
-This template should help get you started developing with Vue 3 in Vite.
+Template à utiliser pour de nouveaux projets avec TailwindCSS installé dessus + unplugin-vue-router
+
+
+TailwindCSS :
+écrire du CSS directement dans les fichiers vue avec des classes personnalisées ou à personnaliser dans le fichier tailwind.config.js
+
+inplugin-vue-router :
+créer des routes (liens) automatiques sans avoir besoin de les spécifier dans le fichier index.ts du dossier router
+-> gain de temps et de lisibilité donc plus pratique
+Exemples de routes : / -> index.vue, about -> about.vue
+
+
+
 
 ## Recommended IDE Setup
 
